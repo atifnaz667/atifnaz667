@@ -10,11 +10,11 @@ Tech Lead and Senior Full-Stack Engineer in Lahore, Pakistan. I build AI-powered
 Most of my client work is private. The repos pinned below are open projects that show how I build.
 
 **Stack**
-Backend: Node.js, PHP, Laravel, Python, FastAPI, TypeScript
-Frontend: React, Next.js, Vue.js
-Data: PostgreSQL, MySQL, MongoDB, Redis
-Cloud: AWS (Lambda, SQS, API Gateway), Docker, GitHub Actions
-AI: AI agents, LangChain, LangGraph, CrewAI, MCP, RAG, OpenAI
+- Backend: Node.js, PHP, Laravel, Python, FastAPI, TypeScript
+- Frontend: React, Next.js, Vue.js
+- Data: PostgreSQL, MySQL, MongoDB, Redis
+- Cloud: AWS (Lambda, SQS, API Gateway), Docker, GitHub Actions
+- AI: AI agents, LangChain, LangGraph, CrewAI, MCP, RAG, OpenAI
 
 **Open to** remote contracts and tech lead roles with US, UK and European teams.
 
