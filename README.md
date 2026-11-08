@@ -1,4 +1,4 @@
-# Hi, I'm Atif 👋
+# Hi, I'm Atif Naz 👋
 
 Tech Lead and Senior Full-Stack Engineer in Lahore, Pakistan. I build AI-powered SaaS products and the AWS systems that keep them running at scale.
 
